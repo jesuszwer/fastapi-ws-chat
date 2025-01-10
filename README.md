@@ -1,6 +1,6 @@
-FastAPI + WebSocket
+#FastAPI + WebSocket
 
-Небольшой пример работы терминального чата с использованием FastAPI и WebSocket.
+##Небольшой пример работы терминального чата с использованием FastAPI и WebSocket.
 
 Для запуска устанавите Python v313 и выше
 ```pip install Fastapi[all], WebSocket```
