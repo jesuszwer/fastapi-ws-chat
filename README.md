@@ -10,5 +10,8 @@
 py main.py
 ```
 
+для проверки можно использовать данный инструмент
+https://jiangxy.github.io/websocket-debug-tool/
+
 
 Автор: @jesuszwer (https://github.com/jesuszwer)
